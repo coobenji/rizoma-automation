@@ -10,7 +10,7 @@ __pycache__/
 *.so
 .Python
 
-# Datos sensibles
+# Datos sensibles y personales
 profiles.json
 *.xml
 
@@ -27,3 +27,6 @@ uploads/
 # Sistema
 .DS_Store
 Thumbs.db
+
+# Logs
+*.log
