@@ -1,0 +1,29 @@
+﻿# Entorno virtual
+venv/
+env/
+.venv/
+
+# Archivos Python
+__pycache__/
+*.py[cod]
+*.class
+*.so
+.Python
+
+# Datos sensibles
+profiles.json
+*.xml
+
+# Outputs generados
+outputs/
+uploads/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Sistema
+.DS_Store
+Thumbs.db
